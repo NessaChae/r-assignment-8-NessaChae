@@ -37,6 +37,7 @@ Run a linear regression using the `lm` function to predict `circumference` from
 assigned.
 
 summary(Orange)
+
 res1<-lm(circumference~age, data = Orange)
 
 4. Add an RMarkdown weblink (in link format) below to your favorite R reference
